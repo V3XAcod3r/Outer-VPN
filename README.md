@@ -84,7 +84,7 @@ No actual VPN tunneling occurs — this is a simulated educational tool with vis
 MIT License © [V3XA]
 
 🚨 Reminder
-This is still proxy-based simulation, not a real encrypted VPN tunnel. But it:
+This still is proxy-based a real encrypted VPN tunnel. 
 
 Actually changes your IP for many apps
 
