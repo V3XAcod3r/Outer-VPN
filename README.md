@@ -3,6 +3,7 @@ A visually immersive, feature-packed VPN simulator with proxy support, animated 
 
 
 
+<img width="1285" height="757" alt="Screenshot 2025-08-12 at 2 11 29 AM" src="https://github.com/user-attachments/assets/e53dbf81-34cf-4857-85cc-3b15e1dbf0f5" />
 
 
 ✨ Features
@@ -82,6 +83,15 @@ No actual VPN tunneling occurs — this is a simulated educational tool with vis
 
 📜 License
 MIT License © [V3XA]
+
+
+<img width="974" height="724" alt="Screenshot 2025-08-12 at<img width="983" height="713" alt="Screenshot 2025-08-12 at 2 06 28 AM" src="https://github.com/user-attachments/assets/86bad448-a28d-4116-8365-aaeffc40e9b4" />
+ 2 05 58 AM" src="https://github.com/user-attachments/assets/15c7264d-65b4-42f8-a29b-0093c9eefd31" />
+
+
+
+
+
 
 🚨 Reminder
 This still is proxy-based a real encrypted VPN tunnel. 
